@@ -1,0 +1,15 @@
+Assignment 2: Based on Study of Academic you need to develop a Mini Project which includes following
+Functionalities.
+
+1.	Home page with login and logout Facility with session and cookie.
+2.	CRUD Operation for any Product Management System.
+3.	Submission: Upload an HTML page on your website and submit webpage link.
+
+SOLUTION:
+I used:
+a)	Session named “admin” to authenticate user for login/logout functionality
+b)	Cookies named “notice (contains message)” and “notice-x (contains type of message)” to pass error and success messages across different connections and pages.
+
+Live Website Link: http://wta2.epizy.com
+GitHub Repo Link: https://github.com/bengbiangmu/wta2
+
